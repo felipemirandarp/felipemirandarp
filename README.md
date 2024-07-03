@@ -1,7 +1,5 @@
 ## Hello World  👋🌎
-↠ Student IFTM - 2/3 📚
 
-↠ T. Informatica 🖥️
 
 
 
